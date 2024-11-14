@@ -26,4 +26,4 @@ pip install pycryptodome
 pip install pycryptodome==3.10.1
 pip install   cryptography==2.9.2
 pip install seaborn
-pip install imutuils
+pip install imutils
