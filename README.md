@@ -19,7 +19,7 @@ Instagram, snapchat etc.
 
 Software Requirements:
 ➢ Operating System : Windows 
-➢ **Coding Language :  Python 3.7 **
+➢ Coding Language :  Python 3.7
 
 Libraries installed in Project:
 1.pip install NumPy==1.18.1 
