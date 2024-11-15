@@ -1,6 +1,6 @@
 **Designed and prepared by Karthik madala**
 
-**DISPLAY EMOJI-BASED FACIAL EXPRESSION || FACIAL EXPRESSION DECTEXTION**
+**DISPLAY EMOJI-BASED FACIAL EXPRESSION || FACIAL EXPRESSION DECTECTION**
 
 
 There are many different ways to express and communicate our feelings. The two classified 
